@@ -10,8 +10,13 @@ $sidebar-sm-columns:    4;
 
 // Colors
 $brand-primary:         #27ae60;
-$body-bg:               #fff;
-$body-color:            #000;
+$body-bg:               #0a0a52;
+$body-color:            #fff;
+
+// Fonts
+@import url(https://fonts.googleapis.com/css?family=Passion+One:700);
+
+$font-family-base:      'Passion One', cursive;
 
 /***********************
 Dependancies
