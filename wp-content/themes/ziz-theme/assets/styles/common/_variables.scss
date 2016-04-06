@@ -1,0 +1,25 @@
+
+@import "../../../node_modules/bootstrap/scss/_variables.scss";
+
+// Glyphicons font path
+$icon-font-path:        "../fonts/";
+
+// Grid settings
+$main-sm-columns:       12;
+$sidebar-sm-columns:    4;
+
+// Colors
+$brand-primary:         #27ae60;
+$body-bg:               #080808;
+$body-color:            #fff;
+
+/***********************
+Dependancies
+***********************/
+
+$screen-sm-min:   768px;
+
+$line-height-base:        1.428571429;
+$line-height-computed:    floor(($font-size-base * $line-height-base));
+
+$thumbnail-caption-padding:   9px;
