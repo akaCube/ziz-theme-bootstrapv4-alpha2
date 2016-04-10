@@ -1,3 +1,4 @@
+<!-- Alternative Header
 <nav class="navbar navbar-top" style="background-color:#080808; border-radius:0px; border-bottom: 3px solid #fff; font-size: 1.2rem">
   <div class="container">
     <div class="row">
@@ -38,8 +39,8 @@
     </div>
   </div>
 </nav>
+-->
 
-<!-- Alternative Header 
 <nav class="navbar navbar-top" style="background-color:#080808; border-radius:0px; border-bottom: 3px solid #fff; font-size: 1.2rem">
   <div class="container">
     <div class="row">
@@ -73,4 +74,3 @@
     </div>
   </div>
 </nav>
---!>

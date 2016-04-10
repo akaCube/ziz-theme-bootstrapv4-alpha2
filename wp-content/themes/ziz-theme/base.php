@@ -21,11 +21,11 @@ use Roots\Sage\Wrapper;
     <div class="wrap container" role="document">
       <div class="content row">
         <?php if (Setup\display_sidebar()) : ?>
-          <aside class="sidebar">
+          <aside class="col-md-2" style="padding-top: 8.5rem;">
             <?php include Wrapper\sidebar_path(); ?>
           </aside><!-- /.sidebar -->
         <?php endif; ?>
-        <main class="main">
+        <main class="col-md-10 main">
           <?php include Wrapper\template_path(); ?>
         </main><!-- /.main -->
       </div><!-- /.content -->
